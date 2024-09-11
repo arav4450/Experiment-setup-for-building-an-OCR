@@ -1,0 +1,8 @@
+name: pytorch_env
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10  
+  - pytorch=2.1.1  
+  - pip=23.1.2  
